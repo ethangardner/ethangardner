@@ -11,4 +11,4 @@ I'm currently navingating all of the exciting developments in the AI space and w
 - I have written articles and spoken internationally on web performance, most recently at [Performance Now](https://perfnow.nl/) in Amsterdam, Netherlands.
 - I have a Master's degree in Education. I love teaching and mentoring others.
 - I focus on having strong fundamentals so I can contribute to projects on a variety of tech stacks.
-- I used to be a professional musician
+- I used to be a professional musician.
